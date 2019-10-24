@@ -1,2 +1,3 @@
 # CaptainHook
 bot
+story.txt
